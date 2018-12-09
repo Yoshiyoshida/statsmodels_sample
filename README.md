@@ -1,4 +1,5 @@
 # statsmodels_sample
 ## 概要
-- ststsmodelsパッケージのトレーニングリポジトリ
+- stastsmodelsパッケージのトレーニングリポジトリ
 - 状態空間モデルの勉強のため
+- https://github.com/statsmodels/statsmodels
